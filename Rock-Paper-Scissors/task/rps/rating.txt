@@ -1,0 +1,2 @@
+George 150
+kevin 10

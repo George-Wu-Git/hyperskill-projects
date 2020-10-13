@@ -1,0 +1,23 @@
+type: edu
+files:
+- name: banking/banking.py
+  visible: true
+  text: |
+    # Write your code here
+  learner_created: false
+- name: tests.py
+  visible: true
+  learner_created: true
+- name: banking/card.s3db
+  visible: true
+  learner_created: true
+- name: card.s3db
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/projects/109/stages/593/implement
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/109/stages/593/implement">JetBrains
+    Academy</a>
+  time: Wed, 23 Sep 2020 06:17:18 UTC
+record: 3

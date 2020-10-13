@@ -1,0 +1,11 @@
+1. add task with a deadline (format : YYYY-MM-DD.)(done)
+    -
+2. create a table of deadline
+    - contain task for 7 days from today
+        - convert YYYY-mm-dd to day dd mm (done)
+        - print each day from today
+            - no task
+            - tasks
+
+    - all tasks (done)
+        - convert YYYY-mm-dd to dd-mm (done)
